@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-131614108-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -52,8 +52,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Elizabeth Murphy"
+  role = "Postdoctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
