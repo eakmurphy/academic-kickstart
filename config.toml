@@ -57,21 +57,17 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Umeå University", url = "https://www.umu.se/en/" } ]
+  organizations = [ { name = "Department of Ecology and Environmental Sciences, Umeå University", url = "https://www.umu.se/en/department-of-ecology-and-environmental-science/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot_iceland.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
+  email = "eakmurphy@gmail.com"
+  address = "Umeå University, 90187 Umeå, Sweden"
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  skype = "eakmurphy"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -97,10 +93,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 2
+  map_api_key = "" 
+  latitude = "63.820923"
+  longitude = "20.303772"
   zoom = 15
 
   # SITE SETUP
@@ -122,7 +118,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "eakmurphy"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
