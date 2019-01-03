@@ -65,7 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "eakmurphy@gmail.com"
   address = "Umeå University, 90187 Umeå, Sweden"
-  """
+  
   phone = ""
   skype = "eakmurphy"
   telegram = ""
