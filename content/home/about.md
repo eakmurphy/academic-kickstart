@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Biomechanics",
     "Environmental fluid mechanics",
-    "Biofilm",
+    "Biofilms",
     "Aquatic invertebrates"
   ]
 
