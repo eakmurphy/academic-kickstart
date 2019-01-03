@@ -13,7 +13,7 @@ weight = 5
     "Biomechanics",
     "Environmental fluid mechanics",
     "Biofilm",
-    Aquatic invertebrates
+    "Aquatic invertebrates"
   ]
 
 # List your qualifications (such as academic degrees).
