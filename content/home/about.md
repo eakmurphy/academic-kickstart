@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Biomechanics",
     "Environmental fluid mechanics",
-    "Biofilm"
+    "Biofilm",
+    Aquatic invertebrates
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,4 +31,4 @@ weight = 5
 
 # Biography
 
-I study aquatic biomechanics: how organisms interact with their fluid environment. I am a postdoctoral fellow in the Department of Ecology and Environmental Science at Umeå University in northern Sweden, where I will investigate the effects of climate change on sediment-  water interactions in northern lakes. I use my background in both organismal biology and fluid physics to study how organisms respond to environmental change, influence ecosystem processes, and impact engineered systems. Previous work utilized field surveys and laboratory experiments to study the biomechanics of coastal burrowing organisms, including burrowing kinematics and fluid and mass transport within burrows.  
+I study aquatic biomechanics: how organisms interact with their fluid environment. I am a postdoctoral fellow in the Department of Ecology and Environmental Science at Umeå University in northern Sweden, where I will investigate the effects of climate change on sediment-  water interactions in northern lakes. I use my background in both organismal biology and fluid physics to study how organisms respond to environmental change, influence ecosystem processes, and impact engineered systems. Previous work utilized field surveys and laboratory experiments to study the biomechanics of coastal burrowing organisms, including burrowing kinematics and fluid and mass transport within burrows. I also conducted laboratory studies of the effects of biofilms on boundary layer flow dynamics, because biofilm fouling significantly impacts ship performance due to a large drag penalty. 
