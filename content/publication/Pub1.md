@@ -39,7 +39,7 @@ selected = true
 projects = ["Invertebrate biomechanics"]
 
 # Links (optional).
-url_pdf = "pdf/pub1.pdf"
+url_pdf = "pdf/Murphy and Dorgan - 2011 - Burrow extension with a proboscis mechanics of bu.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
