@@ -1,11 +1,11 @@
 +++
-title = "The Hudson River is Warming"
+title = "Strike mechanics of an ambush predator: the spearing mantis shrimp"
 
 # Date first published.
 date = "2009-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Michael Pace", "David Seekell"]
+authors = ["Maya S. deVries", "Elizabeth A. K. Murphy", "Sheila N. Patek"]
 
 # Publication type.
 # Legend:
@@ -15,12 +15,12 @@ authors = ["Michael Pace", "David Seekell"]
 # 3 = Work in progress
 # 4 = Technical report
 # 5 = Book
-# 6 = Book chapter
-publication_types = ["8"]
+# 6 = Book chapteTher
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Currents: The Newsletter of the Hudson River Environmental Society"
-publication_short = ""
+publication = "Strike mechanics of an ambush predator: the spearing mantis shrimp"
+publication_short = "Strike mechanics of an ambush predator"
 
 # Abstract and optional shortened version.
 abstract = "While there are many long-term air temperature data from numerous weather stations in the United States, similar records for water temperature are rare. Such a record, however, exists for the Hudson River based on direct measruements of river temperature made daily at the Poughkeepsie Water Treatment Facility (PWTF). This record goes back to 1908 and provides an opporutnity to analyze tempeature change and to benchmark river tempeatures relative to future climate that will likely be much warmer."
