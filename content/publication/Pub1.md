@@ -19,8 +19,8 @@ authors = ["Elizabeth A. K. Murphy", "Kelly M. Dorgan"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Burrow extension with a proboscis: mechanics of burrowing by the glycerid Hemipodus simplex"
-publication_short = "Burrow extension with a proboscis"
+publication = "Journal of Experimental Biology"
+publication_short = "J Exp Biol"
 
 # Abstract and optional shortened version.
 abstract = "Burrowing marine infauna are morphologically diverse and ecologically important as ecosystem engineers. The polychaetes <i>Nereis virens</i> and <i>Cirriformia moorei</i> extend their burrows by crack propagation. <i>Nereis virens</i> does so by everting its pharynx and <i>C. moorei</i>, lacking an eversible pharynx or proboscis, uses its hydrostatic skeleton to expand its anterior. Both behaviors apply stress to the burrow wall that is amplified at the tip of the crack, which extends by fracture. That two species with such distinct morphologies and life histories both burrow by fracturing sediment suggests that this mechanism may be widespread among burrowers. We tested this hypothesis with the glycerid polychaete <i>Hemipodus simplex</i>, which has an eversible proboscis that is much longer and everts more rapidly than the pharynx of <i>N. virens</i>. When the proboscis is fully everted, the tip flares out wider than the rest of the proboscis, creating a shape and applying a stress distribution similar to that of <i>N. virens</i> and resulting in relatively large forces near the tip of the crack. These forces are larger than necessary to extend the crack by fracture and are surprisingly uncorrelated with the resulting stress amplification at the crack tip, which is also larger than necessary to extend the burrow by fracture. These large forces may plastically deform the mud, allowing the worm to build a semi-permanent burrow. Our results illustrate that similar mechanisms of burrowing are used by morphologically different burrowers."
