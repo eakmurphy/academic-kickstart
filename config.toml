@@ -298,7 +298,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "https://elizabethmurphy.netlify.com/publication/#2"
+  url = "publication/#2"
   weight = 2
 
 #[[menu.main]]
