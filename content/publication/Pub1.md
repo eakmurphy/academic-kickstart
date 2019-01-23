@@ -39,7 +39,7 @@ selected = false
 projects = ""
 
 # Links (optional).
-url_pdf = "content/publication/pdf/MurphyDorgan2011.pdf"
+url_pdf = "publication/pdf/MurphyDorgan2011.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
