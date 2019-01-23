@@ -39,10 +39,10 @@ selected = false
 projects = ["river-temp"]
 
 # Links (optional).
-url_pdf = "pdf/pub1.pdf"
+url_pdf = "publication/pdf/JEB2012.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "https://doi.org/10.5063/F13N21BK"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
