@@ -2,7 +2,7 @@
 title = "Burrow extension with a proboscis: mechanics of burrowing by the glycerid <i>Hemipodus simplex</i>"
 
 # Date first published.
-date = "2015"
+date = "2015-03-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elizabeth A. K. Murphy", "Kelly M. Dorgan"]
