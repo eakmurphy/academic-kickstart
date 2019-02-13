@@ -1,5 +1,5 @@
 +++
-title = "Burrow extension with a proboscis: mechanics of burrowing by the glycerid <i>Hemipodus simplex</i>"
+title = "Burrow extension with a proboscis: mechanics of burrowing by the glycerid Hemipodus simplex"
 
 # Date first published.
 date = "2011-03-15"
