@@ -2,7 +2,7 @@
 title = "Oxygen transport in periodically ventilated polychaete burrows"
 
 # Date first published.
-date = "2012-12-15"
+date = "2016-09-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elizabeth A. K. Murphy", "Matthew A. Reidenbach"]
