@@ -1,11 +1,11 @@
 +++
-title = "Strike mechanics of an ambush predator: the spearing mantis shrimp"
+title = "Oxygen transport in periodically ventilated polychaete burrows"
 
 # Date first published.
 date = "2012-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maya S. deVries", "Elizabeth A. K. Murphy", "Sheila N. Patek"]
+authors = ["Elizabeth A. K. Murphy", "Matthew A. Reidenbach"]
 
 # Publication type.
 # Legend:
@@ -19,15 +19,15 @@ authors = ["Maya S. deVries", "Elizabeth A. K. Murphy", "Sheila N. Patek"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Experimental Biology"
-publication_short = "J Exp Biol"
+publication = "Marine Biology"
+publication_short = "Mar Biol"
 
 # Abstract and optional shortened version.
-abstract = "Ambush predation is characterized by an animal scanning the environment from a concealed position and then rapidly executing a surprise attack. Mantis shrimp (Stomatopoda) consist of both ambush predators (‘spearers’) and foragers (‘smashers’). Spearers hide in sandy burrows and capture evasive prey, whereas smashers search for prey away from their burrows and typically hammer hard-shelled, sedentary prey. Here, we examined the kinematics, morphology and field behavior of spearing mantis shrimp and compared them with previously studied smashers. Using two species with dramatically different adult sizes, we found that strikes produced by the diminutive species, Alachosquilla vicina, were faster (mean peak speed 5.72±0.91 m s–1; mean duration 3.26±0.41 ms) than the strikes produced by the large species, Lysiosquillina maculata (mean peak speed 2.30±0.85 m s–1; mean duration 24.98±9.68 ms). Micro-computed tomography and dissections showed that both species have the spring and latch structures that are used in other species for producing a spring-loaded strike; however, kinematic analyses indicated that only A. vicina consistently engages the elastic mechanism. In the field, L. maculata ambushed evasive prey primarily at night while hidden in burrows, striking with both long and short durations compared with laboratory videos. We expected ambush predators to strike with very high speeds, yet instead we found that these spearing mantis shrimp struck more slowly and with longer durations than smashers. Nonetheless, the strikes of spearers occurred at similar speeds and durations to those of other aquatic predators of evasive prey. Although counterintuitive, these findings suggest that ambush predators do not actually need to produce extremely high speeds, and that the very fastest predators are using speed to achieve other mechanical feats, such as producing large impact forces."
+abstract = "Burrowing organisms play a critical role for the functioning of coastal marine sediments, in part due to their pumping of oxygenated water through the burrow. In cohesive sediments, oxygenated burrow water allows for the diffusive flux of oxygen across the burrow wall and into the sediment, where it is consumed. In this study, we quantified the burrow excurrent velocities, volume of water ventilated and oxygenation patterns within the burrow of the polychaete <i>Alitta succinea</i>. We determined that periodic ventilation of the burrow results in oscillations of the flux of oxygen across the burrow wall and oxygen concentration within the sediment near the burrow wall. Additionally, we investigated the effects of temperature changes on oxygen dynamics in the burrow. The volumetric flow rate and frequency of burrow ventilation increased with temperature. Correspondingly, the frequency of the oscillations in oxygen flux across the burrow walls also increased with temperature. However, the time-averaged flux of oxygen across the burrow wall did not change with temperature (1.5 ± 0.3ol m−2 d−1), and the distance of oxygen penetration into the burrow wall decreased with temperature (from 3.4 ± 0.5 at 6 °C to 1.6 ± 0.1 at 33 °C). Thus, seasonal changes in the volume of oxygenated sediment, as well as the pattern of oxygenation that sediment experiences, are expected to be significant while the total oxygen flux is expected to remain relatively uniform. We show that burrower ventilation behavior mediates the effects of temperature on sediment oxygen uptake."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "featured.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -39,7 +39,7 @@ selected = false
 projects = ["river-temp"]
 
 # Links (optional).
-url_pdf = "publication/pdf/JEB2012.pdf"
+url_pdf = "publication/pdf/MB2016.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
