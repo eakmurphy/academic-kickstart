@@ -12,6 +12,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "featured.jpg"
-caption = "testing123"
+# image = "featured.jpg"
+# caption = "testing123"
 +++
