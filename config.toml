@@ -53,18 +53,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Elizabeth Murphy"
-  role = "Postdoctoral Fellow"
+  role = "Postdoctoral Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Ecology and Environmental Sciences, Umeå University", url = "https://www.umu.se/en/department-of-ecology-and-environmental-science/" } ]
+  organizations = [ { name = "Department of Zoology, Stockholm University", url = "https://www.su.se/zoologi/english/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot_iceland.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "eakmurphy@gmail.com"
-  address = "Umeå University, 90187 Umeå, Sweden"
+  address = "Stockholm University, SE-106 91 Stockholm, Sweden
   
   phone = ""
   skype = "eakmurphy"
@@ -95,8 +95,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = "" 
-  latitude = "63.820923"
-  longitude = "20.303772"
+  latitude = "9.36538698921153"
+  longitude = "18.060005717321506"
   zoom = 0.5
 
   # SITE SETUP
