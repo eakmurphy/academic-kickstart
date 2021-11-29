@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "Biofilm hydrodynamics"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "Biofilm fouling is ubiquitous on ship hulls and other aquatic surfaces, such as corals and soft sediments. However, little is know about the effects of biofilm on boundary layer hydrodynamics. I use high resolution Particle Image Velocimetry (PIV) to image and quantify the flow over biofilms in a high speed flow tunnel. Click to learn more."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = ["biofilm", "PIV", "boundary layer", "hydrodynamics", "turbulence"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
