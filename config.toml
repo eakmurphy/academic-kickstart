@@ -313,7 +313,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Data"
-  url = "#teaching"
+  url = "#data"
   weight = 5
 
 [[menu.main]]
