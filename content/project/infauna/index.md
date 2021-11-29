@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "schematic of a biofilm in turbulent boundary layer flow"
+  caption = "a worm burrow surrounded by a thin layer of oxic sediment within otherwise anoxic mud. photo by E. Murphy"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
