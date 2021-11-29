@@ -10,7 +10,7 @@ summary = "Intertidal mudflats are home to a diversity of organisms, many of who
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["infauna", "PIV", "burrowing", "oxygen", "sediment"]
+tags = ["infauna", "PIV", "burrowing", "oxygen", "sediment", "hydrodynamics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
