@@ -25,4 +25,4 @@ Murphy, E.A.K. and M.P. Volaric. (2021). Benthic invertebrates from intertidal m
 
 Murphy, EAK, Barros, JM, Schultz, MP, Flack, KA, Steppe, CN, & Reidenbach, MA. (2018). Biofilm flow data from: Roughness effects of diatomaceous slime fouling on turbulent boundary layer hydrodynamics [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1175014
 
-deVries MS, Murphy EAK, Patek SN (2012) Data from: Strike mechanics of an ambush predator: the spearing mantis shrimp. Dryad Digital Repository. doi:10.5061/dryad.d83g1
+deVries MS, Murphy EAK, Patek SN (2012) Data from: Strike mechanics of an ambush predator: the spearing mantis shrimp. Dryad Digital Repository. doi:10.5061/dryad.d83g1 
