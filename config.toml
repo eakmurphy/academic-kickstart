@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "1950s"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -311,10 +311,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 3
 
-#[[menu.main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 5
+[[menu.main]]
+  name = "Data"
+  url = "/teaching/"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
