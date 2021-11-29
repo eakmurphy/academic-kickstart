@@ -19,9 +19,6 @@ weight = 60
 
 # To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
 
-# Murphy, EAK, Barros, JM, Schultz, MP, Flack, KA, Steppe, CN, & Reidenbach, MA. (2021). PIV vector fields from: Boundary layer hydrodynamics of patchy biofilms 
-# [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5644626
-
 +++
 
 Murphy, E.A.K. and M.P. Volaric. (2021). Benthic invertebrates from intertidal mudflats at the on the coast of Virginia, 2016 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/7deadc96ff337c3a30a82df0bb39ae3b 
