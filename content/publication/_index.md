@@ -12,7 +12,7 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "birds_over_oysters.jpg"
 caption = ""
 # image = "featured.jpg"
 # caption = "testing123"
