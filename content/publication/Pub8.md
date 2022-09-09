@@ -39,7 +39,7 @@ selected = true
 projects = ["biofilm"]
 
 # Links (optional).
-url_pdf = "publication/pdf/Boundary layer hydrodynamics of patchy biofilms.pdf"
+url_pdf = "publication/pdf/patchy_biofilms2022.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
