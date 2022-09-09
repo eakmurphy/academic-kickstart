@@ -15,7 +15,9 @@ weight = 60
 
 +++
 
-Murphy, E.A.K. and M.P. Volaric. (2021). Benthic invertebrates from intertidal mudflats at the on the coast of Virginia, 2016 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/7deadc96ff337c3a30a82df0bb39ae3b 
+Murphy, EAK, Barros, JM, Schultz, MP, Flack, KA, Steppe, CN, & Reidenbach, MA. (2021). PIV vector fields from: Boundary layer hydrodynamics of patchy biofilms [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5644626
+
+Murphy, EAK & Volaric, MP. (2021). Benthic invertebrates from intertidal mudflats at the on the coast of Virginia, 2016 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/7deadc96ff337c3a30a82df0bb39ae3b 
 
 Murphy, EAK, Barros, JM, Schultz, MP, Flack, KA, Steppe, CN, & Reidenbach, MA. (2018). Biofilm flow data from: Roughness effects of diatomaceous slime fouling on turbulent boundary layer hydrodynamics [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1175014
 
