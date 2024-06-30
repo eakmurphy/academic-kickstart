@@ -27,7 +27,7 @@ abstract = "Ambush predation is characterized by an animal scanning the environm
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "pub2.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "featured.jpg"
-caption = ""
+image = "pub2.jpg"
+caption = "A. vicina (A,B) strike kinematics. (A) The trajectory of the distal tip of the propodus for a typical strike through two spatial dimensions; (B) the entire appendage as it moves through time, where time increments between each line segment are 0.1 and 0.3 ms, respectively. Lines were drawn from the proximal to distal end of each appendage segment so that each segment is represented as a line. The different colors represent the changing positions of each segment through time, with time beginning at the purple line (and the arrows) and ending at the brown line. The x-axis represents lateral movement of the appendage and is oriented from the proximal to distal ends of the appendage, while the y-axis represents the vertical movement of the appendage and shows the position of the appendage relative to the anterior–posterior axis of the animal. The arrows represent the base of the merus at time zero in both species. We were unable to digitize the tip of the dactyl at the two points indicated by asterisks in B; these points were added in by hand to enhance visualization of the strike."
 
 +++
