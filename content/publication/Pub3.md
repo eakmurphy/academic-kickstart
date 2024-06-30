@@ -27,7 +27,7 @@ abstract = "Burrowing organisms play a critical role for the functioning of coas
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "featured.jpg"
+image_preview = "pub3.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "featured.jpg"
-caption = ""
+image = "pub3.jpg"
+caption = "(A) Image of oxygenated burrow. The burrow is behind an oxygen- sensitive foil that is illuminated with excitation light of a specific wavelength. The burrow is clearly visible in green due to a high concentration of dissolved oxygen in the burrow water. The porewater of the surrounding sediment is not green because it is oxygen depleted. The scale bar is 5 mm. (b) A calibration curve was applied to every pixel in (a). Warmer colors indicate higher dissolved oxygen levels. The white lines are locations along which oxygen gradients through the burrow and into the burrow wall were calculated"
 
 +++
