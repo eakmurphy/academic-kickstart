@@ -27,7 +27,7 @@ abstract = "In aquatic sediments, active ventilation of burrows is an important 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "featured.jpg"
+image_preview = "pub9.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "featured.jpg"
+image = "pub9.jpg"
 caption = ""
 
 +++
