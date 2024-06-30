@@ -27,7 +27,7 @@ abstract = "Biofilm fouling significantly impacts ship performance. Here, the im
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "pub6.pdf"
+image_preview = "pub6.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "pub6.pdf"
-caption = ""
+image = "pub6.jpg"
+caption = "Time-averaged streamwise (A and B) and vertical (C and D) velocity over a biofilm (left panels) and smooth wall (right panels)."
 
 +++
