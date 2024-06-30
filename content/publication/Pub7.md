@@ -27,7 +27,7 @@ abstract = "Oysters are described as estuarine ecosystem engineers because their
 abstract_short = "The engineering effects of oyster reefs modified the abundance of infauna at distances up to 40 m from reefs, while changes in local flow more likely explained the distribution of sediment composition "
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "pub7.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "pub7.jpg"
+caption = "Oyster reef and mudflat complex at the VCR LTER."
 
 +++
