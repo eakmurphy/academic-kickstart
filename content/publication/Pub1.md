@@ -27,7 +27,7 @@ abstract = "Burrowing marine infauna are morphologically diverse and ecologicall
 abstract_short = "Burrowing organisms, especially those that live in coastal sediments, are considered ecosystem engineers. The glycerid polychaete <i>Hemipodus simplex</i>, a marine worm, burrows by crack propagation using a long, everscible proboscis. We examined the kinematics of burrowing in this species, finding that the proboscis exerts larger than necessary forces near the tip of the crack. This may plastically deform the mud, allowing the worm to build a semi-permanent burrow. Our results illustrate that similar mechanisms of burrowing are used by morphologically diverse burrowers."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "pub1.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "pub1.jpg"
+caption = "Video frame of an everted Hemipodus simplex proboscis. (A) Dorsal view, with visible crack walls. (B) Lateral view of a different proboscis eversion and corresponding thresholded image (C). In C, the small upper patches of light posterior of the proboscis result from body stress (B). The light patches at the anterior end of the proboscis result from tensile stresses at the crack tip (T), and middle patches result from compressive stress (C) from the force of pharynx eversion and are the only pixels included in force calculations. (D) Scheme of the worm as a wedge of profile f(z–b) indicating the half-thickness (h) and distances from the crack tip to the point of contact (a) and from the crack tip to the anterior end of the worm (b) used in Eqns 1 and 2. Scale bars, 0.005 m."
 
 +++
