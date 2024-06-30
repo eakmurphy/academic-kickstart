@@ -63,6 +63,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "pub9.jpg"
-caption = "(A, B) Experimental setup. The camera on the right is recording particles in the burrow, and the camera on the left is recording the worm movements lower in the burrow. (C) A polychaete burrowing in the agarose mixture."
+caption = "(A,B) Experimental setup. One camera records particles in the burrow, the other records worm movements. (C) A polychaete burrowing."
 
 +++
