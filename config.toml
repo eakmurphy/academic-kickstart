@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Elizabeth Murphy"
-  role = "Postdoctoral Researcher"
+  role = "Senior Benthic Ecologist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Zoology, Stockholm University", url = "https://www.su.se/zoologi/english/" } ]
+  organizations = [ { name = "Environmental Department, Ocean Infinity AB", url = "https://oceaninfinity.com/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot_iceland.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
