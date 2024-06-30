@@ -63,6 +63,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "pub9.jpg"
-caption = ""
+caption = "(A) Experimental setup. The camera on the right is recording particles in the burrow, and the camera on the left is recording the worm movements lower in the burrow. (B) A schematic of the experimental setup. The aquarium is 20 × 20 × 5 cm. (C) An image of an A. succinea individual burrowing in the agarose mixture. The individual is near the aquarium wall. This image was taken without the laser light sheet for better visibility."
 
 +++
