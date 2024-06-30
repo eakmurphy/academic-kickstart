@@ -1,5 +1,5 @@
 +++
-title = "Oxygen transport in periodically ventilated polychaete burrows"
+title = "Pulsatile ventilation flow in polychaete Alitta succinea burrows"
 
 # Date first published.
 date = "2024-06-21"
