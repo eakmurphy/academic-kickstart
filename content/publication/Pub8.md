@@ -27,7 +27,7 @@ abstract = "Algal biofilms, ubiquitous in aquatic systems, reduce the performanc
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "pub8.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "pub8.jpg"
+caption = "Representative subsection of (A) uniform biofilm; (B) patchy biofilm; (C) sparse biofilm 1; (D) sparse biofilm 2."
 
 +++
